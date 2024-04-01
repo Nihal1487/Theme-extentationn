@@ -1,0 +1,31 @@
+{
+  "name": "nihal-dark-theme",
+  "displayName": "nihal-dark-theme",
+  "description": "This is a Dark theme make for all  dark  tneme   Lover",
+  "version": "0.0.1",
+  "publisher": "Nihal1487",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "theme",
+    "Nihal-Dark-Theme",
+    "nihal-Dark-Theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nihal-Dark-Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nihal-Dark-Theme-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "@vscode/vsce": "^2.24.0"
+  }
+}
