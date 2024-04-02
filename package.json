@@ -3,7 +3,7 @@
   "displayName": "nihal-dark-theme",
   "description": "This is a Dark theme make for all  dark  tneme   Lover",
   "version": "0.0.1",
-  "publisher": "Nihal1487",
+  "publisher": "nihal1487m",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -16,6 +16,10 @@
     "Nihal-Dark-Theme",
     "nihal-Dark-Theme"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nihal1487/Theme-extentationn.git"
+  },
   "contributes": {
     "themes": [
       {
